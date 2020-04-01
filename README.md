@@ -3,7 +3,7 @@
 
 This repository contains a number of weekly tasks completed over the past three months.
 
-1. The first task was to write a program that calculates somebody's Body Mass Index. The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared. This is a simple program which deals with basic user inputs.
+1. The first task was to write a program that calculates a users Body Mass Index. Body Mass Index is calculated using the formula kg/m*m. The inputs needed for this calculation are the person's height in meters squared and weight in kilograms. The output is their weight divided by their height in metres squared. Therefore, I labelled the user input for height(in meters) as x, and let height = x * x in order to get the users height in meters squared. This makes the program much easier for a potential user to calculate BMI, due to its user friendly height and weight units. This is a simple program which deals with basic user inputs.
 
 2. The second weekly task was to write a program that asks a user to input a string and outputs every second letter in reverse order. A short piece of code was developed to achieve this.
 
