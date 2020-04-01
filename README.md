@@ -5,7 +5,7 @@ This repository contains a number of weekly tasks completed over the past three 
 
 1. The first task was to write a program that calculates a users Body Mass Index. Body Mass Index is calculated using the formula kg/m*m. The inputs needed for this calculation are the person's height in meters squared and weight in kilograms. The output is their weight divided by their height in metres squared. Therefore, I labelled the user input for height(in meters) as x, and let height = x * x in order to get the users height in meters squared. This makes the program much easier for a potential user to calculate BMI, due to its user friendly height and weight units. This is a simple program which deals with basic user inputs.
 
-2. The second weekly task was to write a program that asks a user to input a string and outputs every second letter in reverse order. A short piece of code was developed to achieve this.
+2. The second weekly task was to write a program that asks a user to input a string and outputs every second letter in reverse order. I declared the variable "s" as the user input, recieved using the input("please enter a sentence: ") command. Every second letter in reverse was achieved using the print(s[::-2]) command. A short piece of code was developed to achieve the desired result for this task. 
 
 3. The third task was to write a program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. This task was an introduction to inputs, loops and if statements. While the code was quite simple, it required careful thought and attention.
 
