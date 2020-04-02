@@ -14,7 +14,7 @@ a = float(input("please make an educated guess: "))
 def newton_method(n, a, y):
     ans = a 
     y = y-1
-    #While loop until y = 0
+    #While loop until the number of iterations is reached, and y=0
     while y > 0:
         ans = 0.5 * (ans + (n / ans))
         y = y - 1
