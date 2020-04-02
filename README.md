@@ -23,6 +23,13 @@ Feedback from lecturers on the repository was extremely valuable, as some of my 
 
 ACKNOWLEDGMENTS
 
+Lutz, M. (2013) "Learning Python: Powerful Object-Oriented Programming" Available at: https://books.google.ie/books?hl=en&lr=&id=ePyeNz2Eoy8C&oi=fnd&pg=PP1&dq=python&ots=MbB9hG9fzm&sig=-0lkc19SMd7xtki91OsCMJGLWRE&redir_esc=y#v=onepage&q=python&f=false Accessed on: 02/03/2020.
+
+McKinney, W. (2010) "Data Structures for Statistical Computing in Python" Available at: http://conference.scipy.org/proceedings/scipy2010/pdfs/mckinney.pdf Accessed on: 25/03/2020.
+
+Oliphant, T.E.(2007) "Python for Scientific Computing," in Computing in Science & Engineering, vol. 9, no. 3, pp. 10-20. 
+Available at: https://ieeexplore.ieee.org/abstract/document/4160250 Accessed on: 20/03/2020.
+
 VanderPlas, J (2016) 'A Whirlwind Tour of Python'. Available at: https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
 
 Various Authors (2020) 'Real Python'. Available at: https://realpython.com/
