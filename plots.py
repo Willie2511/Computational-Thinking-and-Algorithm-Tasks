@@ -25,4 +25,4 @@ plt.xlabel('X')
 plt.ylabel('Y')
 # Finally I added a title, a legend and labels to complete the graph
 plt.show()
-exit()
+
