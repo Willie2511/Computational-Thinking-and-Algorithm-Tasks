@@ -18,7 +18,7 @@ with open('/Users/Willie/Desktop/moby_dick.txt', 'r') as f:
                 #seaching for letter e
                 if(letter == letters):
                 # letters = e, stated at start
-                k= k+1
+                   k= k+1
 #loop keeps counting e's until all are traced
 print(k) 
 
